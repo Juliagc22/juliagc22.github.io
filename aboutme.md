@@ -9,7 +9,7 @@ My name is Júlia Galimany, I am from El Vendrell and I love learning new skills
 ### Education
 
 - Biotechnology degree at URV (2021 - 2025)
-- Master in health data science at URV (2025 - Present)
+- Master in Health Data Science at URV (2025 - Present)
 
 ### Experience
 - Student Researcher at Eurecat (2025)
