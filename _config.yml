@@ -110,15 +110,19 @@ navbar-var-length: false
 
 page-col: "#F9FAFB"
 text-col: "#1F2937"
+
 link-col: "#6C63FF"
 hover-col: "#A78BFA"
-navbar-col: "#FFFFFF"
-navbar-text-col: "#4B3F72"
-navbar-border-col: "#E5E7EB"
+
+navbar-col: "#6C63FF"        # 🔥 ara lila
+navbar-text-col: "#FFFFFF"   # text blanc per contrast
+navbar-border-col: "#6C63FF"
+
 footer-col: "#4B3F72"
 footer-text-col: "#E5E7EB"
-footer-link-col: "#E5E7EB"
-footer-hover-col: "#4B3F72"
+
+footer-link-col: "#A78BFA"   # 👈 icones visibles (NO blanc)
+footer-hover-col: "#FFFFFF"  # hover clar (efecte net)
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
