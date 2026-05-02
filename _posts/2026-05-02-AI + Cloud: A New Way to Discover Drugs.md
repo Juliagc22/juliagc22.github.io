@@ -1,0 +1,79 @@
+---
+layout: post
+title: AI + Cloud: A New Way to Discover Drugs
+subtitle: How cloud computing and artificial intelligence are reshaping early-stage pharmaceutical research
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [Drug discovery]
+comments: true
+mathjax: true
+author: Bill Smith
+---
+
+## Introduction
+
+Drug discovery has traditionally been a slow and complex process. It requires years of experimentation, large financial investments, and often leads to a high number of failures before finding a viable treatment.
+
+In recent years, this process has started to change. The combination of artificial intelligence and cloud computing is introducing a new way of discovering drugs—one that relies less on trial and error and more on data, prediction, and large-scale computation.
+
+---
+
+## From Experimentation to Prediction
+
+For a long time, discovering a drug meant testing large numbers of molecules in the laboratory and gradually narrowing down the options. This approach is still used today, but it is slow and inefficient because most compounds do not work.
+
+The increasing availability of biomedical data has changed this situation. Large datasets describing genes, proteins, and chemical compounds can now be analyzed computationally. Instead of testing everything, it becomes possible to predict which molecules are more likely to succeed before running experiments.
+
+This shift allows researchers to focus their efforts on the most promising candidates, reducing both time and cost.
+
+---
+
+## What AI Makes Possible
+
+Artificial intelligence is now used at multiple stages of drug discovery. It can help identify biological targets linked to disease, design new molecules, and estimate whether a compound will be effective or toxic.
+
+Some models are able to generate entirely new chemical structures, exploring combinations that would be impossible to test manually. Others simulate how a molecule interacts with a protein, providing insight before any laboratory work is carried out.
+
+These approaches make it possible to explore a much larger chemical space than traditional methods, while filtering out weak candidates early in the process.
+
+---
+
+## The Role of the Cloud
+
+All these capabilities depend on one key factor: computational power.
+
+Analyzing biological data and training AI models requires large-scale computing resources. This includes powerful processors, large storage systems, and the ability to run many simulations in parallel.
+
+Cloud computing provides this infrastructure. Instead of relying on local hardware, researchers can access scalable resources on demand. This allows complex analyses to be performed more quickly and makes advanced tools available to a wider range of teams.
+
+Cloud platforms also make collaboration easier, as data and models can be shared and accessed from anywhere.
+
+---
+
+## Case Study: AWS and AI-Driven Drug Discovery
+
+A clear real-world example of this is the use of cloud platforms like Amazon Web Services.
+
+Recent developments show that AWS has created tools specifically designed for drug discovery workflows. These platforms allow researchers to run complex AI models, generate new molecules, and simulate their behavior—all within the cloud.
+
+What is particularly interesting is how much this accelerates the process. In some cases, workflows that used to take months can now be completed in just weeks, thanks to the combination of AI models and scalable cloud infrastructure .
+
+Instead of needing specialized hardware or deep technical expertise, researchers can interact with these systems through simplified interfaces, making advanced drug discovery more accessible than ever.
+
+---
+
+## A Changing Landscape
+
+The combination of AI and cloud computing is not replacing experimental science, but it is changing how it is done.
+
+Instead of starting in the lab and moving slowly forward, research can begin with computational models that guide decisions from the very beginning. Experiments then become more targeted and efficient.
+
+There are still challenges to address, including data quality, model interpretability, and validation. However, the overall direction is clear: drug discovery is becoming faster, more scalable, and increasingly driven by data.
+
+---
+
+## References
+
+Qureshi, R. et al. (2023). *AI in drug discovery and its clinical relevance*. Heliyon, 9(7), e17575.
+
+[1]: https://intuitionlabs.ai/articles/amazon-bio-discovery-aws-ai-drug-platform?utm_source=chatgpt.com "Amazon Bio Discovery: AWS AI Drug Discovery Platform"
