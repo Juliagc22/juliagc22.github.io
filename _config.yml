@@ -17,7 +17,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/PXL_20260328_191734002.MP.jpg"
+avatar: "/images/Júlia_Galimany_Claver_fOUjYI25lu (3).jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,8 +36,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "julia@julia.com"
-  github: Juliagc22
-  linkedin: Júlia Galimany Claver
+  github: "https://github.com/Juliagc22"
+  linkedin: "https://www.linkedin.com/in/j%C3%BAlia-galimany-claver-a2b312325/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
